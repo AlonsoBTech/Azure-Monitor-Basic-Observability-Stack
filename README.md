@@ -31,6 +31,8 @@ What we will be using and creating:
 - Log Analytic Workspace
 - Azure Monitor
 
+## <a name="quick-guide">🤸 Quick Guide</a>
+
 **First create your git repository (name it whatever you like) then clone the git repository**
 
 ```bash
