@@ -129,7 +129,7 @@ resource "azurerm_log_analytics_workspace" "log_dev_monitor" {
 </details>
 
 </details>
-<summary><code>monitor.tf</code></summary> 
+<summary><code>monitor.tf</code></summary>
 
 ```bash
 terraform {
