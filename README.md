@@ -156,11 +156,9 @@ provider "azurerm" {
 </details>
 
 <details>
-<summary><code>.gitignore</code></summary>
+<summary><code>variables.tf</code></summary>
 
 ```bash
-#### VARIABLE VALUES ARE STORED IN "TERRAFORM.TFVARS" ####
-
 variable "rg_location" {
   type    = string
   default = "canadacentral"
@@ -191,4 +189,6 @@ Resource Group created with Stoarge Account and Log Analytics Worksapce
 
 ![rg-panel](https://github.com/AlonsoBTech/Azure-Monitor-Basic-Observability-Stack/assets/160416175/e17195bc-4102-41c7-9496-e251bedde7e2)
 
+## <a name="links">🔗 Links</a>
 
+- [Terraform AWS Provider Registry](https://registry.terraform.io/providers/hashicorp/azure/latest/docs)
