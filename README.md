@@ -216,4 +216,4 @@ Resource Group created with Stoarge Account and Log Analytics Worksapce
 
 ## <a name="links">🔗 Links</a>
 
-- [Terraform Azure Provider Registry](https://registry.terraform.io/providers/hashicorp/azure/latest/docs)
+- [Terraform Azure Provider Registry](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
