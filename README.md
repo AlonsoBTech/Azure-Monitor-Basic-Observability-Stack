@@ -127,10 +127,8 @@ resource "azurerm_log_analytics_workspace" "log_dev_monitor" {
 **Create your monitor.tf file**
 
 </details>
-
 </details>
 <summary><code>monitor.tf</code></summary>
-
 ```bash
 data "azurerm_subscription" "current" {}
 
