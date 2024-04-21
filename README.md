@@ -1,4 +1,4 @@
-## Azure Monitor Basic Observability Stacl
+## Azure Monitor Basic Observability Stack
 
 ## 📋 <a name="table">Table of Contents</a>
 
