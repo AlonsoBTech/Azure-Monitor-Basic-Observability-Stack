@@ -179,9 +179,11 @@ resource "azurerm_monitor_diagnostic_setting" "diag_dev_monitor" {
 **Create your variables.tf file**
 
 </details>
+
 <details>
 <summary><code>variables.tf</code></summary>
-```bash
+
+  ```bash
 variable "rg_location" {
   type    = string
   default = "canadacentral"
